@@ -1,0 +1,88 @@
+
+
+.navbar {
+    position: absolute;
+    right: 50%;
+    transform: translatex(-50%);
+    background-color:#234731
+    
+}
+
+.container-fluid {
+    display: flex;
+    max-height: 100%;
+    background-color: blackl;
+    position:center;
+    
+
+}
+
+.container {
+    background-color: green;
+    border-color: black;
+    padding-top: 30px;
+    
+}
+
+
+
+
+.container-fluid {
+    display: flex;
+    max-height: 100%;
+    background-color: black;
+    position:center;
+    
+
+}
+
+.container {
+    background-color: #234731 ;
+    border-color: black;
+    padding-top: 30px;
+    
+}
+
+
+
+
+.col-4 {
+    background-color: #234731 ;
+}
+
+.jumbotron.jumbotron-fluid {
+    background-color: #234731;
+    margin-bottom: 0;
+    padding-bottom: 200px;
+}
+
+.card-body {
+    background-color: #234731 ;
+}
+
+.card{
+    background-color: #234731 ;
+    border-color: #234731;
+}
+
+.card-text {
+    color: white;
+}
+h3 {
+    color: #00ED2F;
+}
+
+.h1, h1 {
+    color: #00ED2F;
+    
+    text-align: center;
+}
+
+h4, h6 {
+    color:white;
+    text-align: center;
+}
+
+.row {
+    margin-right: 0px;
+}
